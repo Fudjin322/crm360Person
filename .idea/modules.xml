@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sqlBoiler.iml" filepath="$PROJECT_DIR$/.idea/sqlBoiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crm360Person/.idea/crm360Person.iml" filepath="$PROJECT_DIR$/../crm360Person/.idea/crm360Person.iml" />
     </modules>
   </component>
 </project>

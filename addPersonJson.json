@@ -1,0 +1,683 @@
+{
+  "first_name": {
+    "first_name_en": "Vitaly",
+    "first_name_kz": "Виталий",
+    "first_name_ru": "Виталий"
+  },
+  "last_name": {
+    "last_name_en": "Tsal",
+    "last_name_kz": "Цаль",
+    "last_name_ru": "Цаль"
+  },
+  "middle_name": {
+    "middle_name_en": "Arthas",
+    "middle_name_kz": "ПАПИЧ",
+    "middle_name_ru": "ПАПИЧ"
+  },
+  "iin": "850111301503",
+  "rnn": "850111301503",
+  "birth_date": "1990-11-19",
+  "death_date": null,
+  "resident": "1",
+  "phone_number": "87078789502",
+  "asp": {
+    "asp_amount": 45000.584,
+    "asp_date_to": "2024-12-31",
+    "asp_date_from": "2023-12-31",
+    "asp_number_of_children": 2,
+    "asp_number_of_family_member": 5
+  },
+  "esp": {
+    "esp_payment_date": "2023-12-31",
+    "esp_payment_amount": 45000.584
+  },
+  "accident": {
+    "accident_date": "2001-09-11",
+    "accident_name": "9-11",
+    "accident_type": "Террористическая атака",
+    "accident_damage_type": "Спас всех"
+  },
+  "avg_income": {
+    "avg_income_type": 1,
+    "avg_income_amount": 322.228,
+    "avg_income_period": "2024-01-01",
+    "avg_income_refresh_date": "2024-02-01",
+    "avg_income_payment_count": 1,
+    "avg_income_calculation_type": 1
+  },
+  "avg_pension_income": {
+    "avg_pension_income_type": 1,
+    "avg_pension_income_amount": 322.228,
+    "avg_pension_income_period": "2024-01-01",
+    "avg_pension_income_payment_count": 1,
+    "avg_pension_income_calculation_type": 1
+  },
+  "avg_social_income": {
+    "avg_social_income_type": 1,
+    "avg_social_income_amount": 322.228,
+    "avg_social_income_period": "2024-01-01",
+    "avg_social_income_payment_count": 1
+  },
+  "birth_info": {
+    "birth_info_birth_city": "Винница",
+    "birth_info_region_code": "22",
+    "birth_info_country_code": "322",
+    "birth_info_district_code": "8",
+    "birth_info_region_name_kz": "Винница",
+    "birth_info_region_name_ru": "Винница",
+    "birth_info_country_name_kz": "Нiмеччина",
+    "birth_info_country_name_ru": "Німеччина",
+    "birth_info_district_name_kz": "Ауэзовский",
+    "birth_info_district_name_ru": "Ауэзовский"
+  },
+  "citizenship": {
+    "citizenship_code": "322",
+    "citizenship_name_kz": "Украина",
+    "citizenship_name_ru": "Украина"
+  },
+  "education": {
+    "education_course": {
+      "education_course_number": "322",
+      "education_course_name_kz": "Мемология",
+      "education_course_name_ru": "Мемология"
+    },
+    "education_status": {
+      "education_status_code": 322,
+      "education_status_name_kz": "Я лучший в мире а ты ...",
+      "education_status_name_ru": "Я лучший в мире а ты ..."
+    },
+    "education_date_to": "1995-01-01",
+    "education_id_type": 322,
+    "education_language": {
+      "education_language_code": "322",
+      "education_language_name_kz": "Язык Рофланов",
+      "education_language_name_ru": "Йогуртовый"
+    },
+    "education_institute": {
+      "education_institute_bin": "322228",
+      "education_institute_name_kz": "Школа Папича",
+      "education_institute_name_ru": "Школа Папича"
+    },
+    "education_study_form": {
+      "education_study_form_code": "322",
+      "education_study_form_name_kz": "Просмотр стримов каждые два дня",
+      "education_study_form_name_ru": "Просмотр стримов каждые два дня"
+    },
+    "education_diploma_type": {
+      "education_diploma_type_code": "322",
+      "education_diploma_type_name_kz": "Все виноваты кроме Я",
+      "education_diploma_type_name_ru": "Все виноваты кроме Я"
+    },
+    "education_he_retirement": {
+      "education_he_retirement_code": "228",
+      "education_he_retirement_name_kz": "Его выгнали из-за его красоты",
+      "education_he_retirement_name_ru": "Его выгнали из-за его красоты"
+    },
+    "education_he_speciality": {
+      "education_he_speciality_code": "322",
+      "education_he_speciality_name_kz": "7К ПТС",
+      "education_he_speciality_name_ru": "7К ПТС"
+    },
+    "education_date_from_from": "1990-01-01",
+    "education_tpe_speciality": {
+      "education_tpe_speciality_code": "322",
+      "education_tpe_speciality_name_kz": "Топ 3 ладдера",
+      "education_tpe_speciality_name_ru": "Топ 3 ладдера"
+    },
+    "education_country_name_ru": "Казахстан",
+    "education_student_category": {
+      "education_student_category_code": "322",
+      "education_student_category_name_kz": "У тебя батя ...... сынок",
+      "education_student_category_name_ru": "У тебя батя ...... сынок"
+    },
+    "education_tpe_retirement_reason": "Его выгнали из-за его красоты"
+  },
+  "health": {
+    "pcr_test": {
+      "pcr_test_iin": "850111301503",
+      "pcr_test_phone": "87078789502",
+      "pcr_test_gender": "Мужской",
+      "pcr_test_address": "Макатаева 53",
+      "pcr_test_resident": "-",
+      "pcr_test_last_name": "Цаль",
+      "pcr_test_first_name": "Витаилий",
+      "pcr_test_citizenship": "Казахстан",
+      "pcr_test_middle_name": "ПАПИЧ",
+      "pcr_test_protocol_date": "2024-01-01",
+      "pcr_test_living_address": "Майами 209",
+      "pcr_test_research_result": "Здоров",
+      "pcr_test_has_symptoms_covid": "Нет",
+      "pcr_test_place_of_study_or_work": "ПКБ"
+    },
+    "health_disability": {
+      "health_disability": false,
+      "health_disability_group_number": 0
+    }
+  },
+  "farm_animal": {
+    "farm_animal_cato": "ПАПИЧ",
+    "farm_animal_type": 322228,
+    "farm_animal_count": 322,
+    "farm_animal_refresh_date": "2024-01-01",
+    "farm_animal_type_description": "Каракос каракас Артас пи....."
+  },
+  "scoring": {
+    "vtb_scoring": {
+      "vtb_scoring_date": "2024-01-01",
+      "vtb_scoring_mm_is_prolong_in_18m": 12,
+      "vtb_scoring_mm_is_req_cnt_less_6_in_7d": 123,
+      "vtb_scoring_mm_is_req_cnt_more_5_in_7d": 4,
+      "vtb_scoring_mm_is_req_cnt_more_9_in_30d": 5,
+      "vtb_scoring_mm_is_req_cnt_less_10_in_30d": 23,
+      "vtb_scoring_is_neg_debt_judj_ref_in_19m_36m": 21,
+      "vtb_scoringis_neg_debt_del_for_losses_in_18m": 21,
+      "vtb_scoring_is_neg_debt_del_outsys_in_19m_36m": 23,
+      "vtb_scoring_is_neg_debt_forg_for_death_in_18m": 8,
+      "vtb_scoring_mm_is_prolong_of_1_more_in_19m_36m": 3,
+      "vtb_scoring_mm_is_cur_ovd_less_8d_or_less_15000": 7,
+      "vtb_scoring_is_neg_debt_forg_for_hopl_in_19m_36m": 8,
+      "vtb_scoring_mm_is_ovd_cnt_less_10_more_9d_in_18m": 0,
+      "vtb_scoring_is_neg_debt_judj_ref_in_18m_status_20": 98,
+      "vtb_scoring_is_neg_ovd_more_360d_in_18m_status_16": 17,
+      "vtb_scoring_mm_is_ovd_cnt_more_9_more_9999_in_18m": 6,
+      "vtb_scoring_is_neg_debt_judj_paid_in_18m_status_23": 41,
+      "vtb_scoring_is_neg_ovd_from_91d_to_360d_in_19m_36m": 15,
+      "vtb_scoring_mm_is_ovd_cnt_more_10_more_9999_in_18m": 6,
+      "vtb_scoring_is_neg_debt_del_outsys_in_18m_status_24": 89,
+      "vtb_scoring_is_neg_loan_debt_del_for_balance_in_18m": 7,
+      "vtb_scoring_mm_is_ovd_cnt_more_9_more_9d_in_19m_36m": 1,
+      "vtb_scoring_mm_is_ovd_less_30d_more_eq_2000t_in_12m": 21,
+      "vtb_scoring_is_neg_debt_18_forg_for_death_in_19m_36m": 31,
+      "vtb_scoring_is_neg_debt_del_for_losses_17_in_19m_36m": 6,
+      "vtb_scoring_is_neg_assign_cred_rights_in_18m_status_2": 12,
+      "vtb_scoring_is_neg_ovd_more_360d_in_19m_36m_status_16": 6,
+      "vtb_scoring_mm_is_cur_ovd_more_eq_8d_or_more_eq_15000": 12,
+      "vtb_scoring_is_neg_debt_forg_for_hopl_in_18m_status_25": 72,
+      "vtb_scoring_is_neg_debt_judj_paid_in_19m_36m_status_23": 3,
+      "vtb_scoring_is_neg_ovd_from_31d_to_60d_in_18_status_12": 7,
+      "vtb_scoring_is_neg_ovd_from_7d_to_30d_in_18m_status_11": 6,
+      "vtb_scoring_is_neg_transf_cred_rights_in_18m_status_26": 3,
+      "vtb_scoring_mm_is_ovd_more_eq_30d_more_eq_2000t_in_12m": 3,
+      "vtb_scoring_is_neg_loan_debt_del_for_balance_in_19m_36m": 32,
+      "vtb_scoring_is_neg_ovd_from_61d_to_90d_in_18m_status_13": 6,
+      "vtb_scoring_is_neg_ovd_from_91d_to_360d_in_18m_status_15": 1,
+      "vtb_scoring_is_neg_assign_cred_rights_in_19m_36m_status_2": 9,
+      "vtb_scoring_mm_is_ovd_cnt_more_9_more_9d_more_5000_in_18m": 2,
+      "vtb_scoring_is_neg_ovd_from_7d_to_30d_in_19m_36m_status_11": 96,
+      "vtb_scoring_is_neg_transf_cred_rights_in_19m_36m_status_26": 71,
+      "vtb_scoring_is_neg_debt_del_for_other_reas_in_18m_status_19": 74,
+      "vtb_scoring_is_neg_ovd_from_31d_to_60d_in_19m_36m_status_12": 17,
+      "vtb_scoring_is_neg_ovd_from_61d_to_90d_in_19m_36m_status_13": 3,
+      "vtb_scoring_is_neg_debt_del_for_other_reas_in_19m_36m_status_19": 7
+    },
+    "fraud_scoring": {
+      "fraud_scoring_date": "2024-01-01",
+      "fraud_scoring_score": 53,
+      "fraud_scoring_risk_zone": "Дядя Богдан",
+      "fraud_scoring_risk_class": "ПАПИЗИ",
+      "fraud_scoring_probability": 23
+    },
+    "fico_scoring": {
+      "fico_scoring_date": "2024-01-01",
+      "fico_scoring_score": 322
+    },
+    "bml_pdl_scoring": {
+      "bml_pdl_scoring_date": "2020-02-20",
+      "bml_pdl_scoring_score": 322.69,
+      "bml_pdl_default_scoring_probability": 1.5
+    },
+    "quantum_scoring": {
+      "quantum_scoring_date": "2024-01-01",
+      "quantum_scoring_is_cur_ovd_more_1000": 74,
+      "quantum_scoring_is_ovd_more_30d_in_6m": 74,
+      "quantum_scoring_cs_is_cur_ovd_more_30d": 41,
+      "quantum_scoring_is_act_cred_cnt_more_7": 74,
+      "quantum_scoring_is_neg_status_act_cred": 74,
+      "quantum_scoring_is_req_cnt_more_7_in_30d": 1
+    },
+    "bck_bank_scoring": {
+      "bck_bank_scoring_date": "2024-01-01",
+      "bck_bank_scoring_is_act_cred_cnt_more_5_flag": 5,
+      "bck_bank_scoring_is_req_cnt_more_eq_5_in_39_d_flag": 54,
+      "bck_bank_scoring_is_cur_overd_amount_more_eq_5000_flag": 3,
+      "bck_bank_scoring_is_max_overd_instal_cnt_more_60_d_in_12_m_flag": 1,
+      "bck_bank_scoring_is_max_overd_instal_cnt_more_eq_90_d_in_23_m_flag": 23
+    },
+    "behavior_scoring": {
+      "behavior_scoring_date": "2024-01-01",
+      "behavior_scoring_yage": 32,
+      "behavior_scoring_score": 322,
+      "behavior_scoring_risk_class": "Мистер плюсовый",
+      "behavior_scoring_result_cuses": "Стримснайперы",
+      "behavior_scoring_req_cntl_60_m": 54,
+      "behavior_scoring_no_overd_m_cnt": 54,
+      "behavior_scoring_risk_class_num": 2,
+      "behavior_scoring_start_overd_m_cnt": 45,
+      "behavior_scoring_act_contr_cntl_12_m": 54,
+      "behavior_scoring_no_verd_ratiol_12_m": 23,
+      "behavior_scoring_active_contr_max_term": 54,
+      "behavior_scoring_is_overdmore_eq_90_lm": 6546,
+      "behavior_scoring_contr_l_end_date_m_cnt": 54,
+      "behavior_scoring_is_overd_amount_m_1000": 12,
+      "behavior_scoring_max_overdue_days_cnt_13_m": 12,
+      "behavior_scoring_cred_card_oustanding_amount": 1,
+      "behavior_scoring_cred_card_maxutilizationl_13_m": 45,
+      "behavior_scoring_closed_hard_overd_contr_cntl_60_m": 69,
+      "behavior_scoring_is_overddays_cnt_between_15_and_89_lm": 45
+    },
+    "sberbank_scoring": {
+      "sberbank_scoring_date": "2024-01-01",
+      "sberbank_scoring_is_max_ovd_eq_0": 12,
+      "sberbank_scoring_is_ovd_cnt_eq_1": 324,
+      "sberbank_scoring_is_max_ovd_eq_5d": 65,
+      "sberbank_scoring_is_cur_ovd_more_0": 1,
+      "sberbank_scoring_is_ovd_cnt_betw_2_3": 32,
+      "sberbank_scoring_is_ovd_cnt_betw_4_5": 9,
+      "sberbank_scoring_is_max_ovd_betw_6d_30d": 65,
+      "sberbank_scoring_is_max_ovd_more_100000": 1,
+      "sberbank_scoring_is_max_ovd_more_eq_91d": 32,
+      "sberbank_scoring_is_max_ovd_betw_1_50000": 3,
+      "sberbank_scoring_is_max_ovd_betw_31d_90d": 1,
+      "sberbank_scoring_credit_history_less_180d": 31,
+      "sberbank_scoring_is_max_ovd_betw_50001_100000": 0,
+      "sberbank_scoring_is_cur_mon_cred_paysum_less_eq_100000": 31,
+      "sberbank_scoring_is_cur_cred_debtsum_more_eq_1000000eur": 5,
+      "sberbank_scoring_is_cur_mon_cred_paysum_betw_100001_200000": 45,
+      "sberbank_scoring_is_cur_mon_cred_paysum_betw_200001_300000": 123,
+      "sberbank_scoring_is_cur_mon_cred_paysum_betw_300001_400000": 4,
+      "sberbank_scoring_is_cur_mon_cred_paysum_betw_400001_500000": 8,
+      "sberbank_scoring_is_cur_mon_cred_paysum_betw_500001_1000000": 3
+    },
+    "alfa_bank_scoring": {
+      "alfa_bank_scoring_date": "2024-12-01",
+      "alfa_bank_scoring_score": 322
+    },
+    "fast_cash_scoring": {
+      "fast_cash_scoring_date": "2024-01-01",
+      "fast_cash_scoring_is_cur_ovd_m_5d": 454,
+      "fast_cash_scoring_is_cur_ovd_m_15d": 234,
+      "fast_cash_scoring_is_person_pledger": "ПАПИЗИ",
+      "fast_cash_scoring_is_req_cnt_m_8_l30d": 645,
+      "fast_cash_scoring_is_cur_ovd_amount_m_5000t": 23,
+      "fast_cash_scoring_is_ovd_amount_m_5000t_13m": 56,
+      "fast_cash_scoring_is_pledge_price_m_500000t": 436
+    },
+    "forte_bank_scoring": {
+      "forte_bank_scoring_date": "2024-01-01",
+      "forte_bank_scoring_req_cnt_l7d": 74.5,
+      "forte_bank_scoring_req_cnt_l30d": 12.41,
+      "forte_bank_scoring_req_cnt_l90d": 25.35,
+      "forte_bank_scoring_neg_status_list_l5y": 84.2,
+      "forte_bank_scoring_has_closed_contracts": 12.2,
+      "forte_bank_scoring_is_ovd_days_cnt_m_10d_l3m": 32.28,
+      "forte_bank_scoring_is_ovd_days_cnt_m_30d_l6m": 121,
+      "forte_bank_scoring_is_ovd_days_cnt_m_30d_l12m": 4.5,
+      "forte_bank_scoring_is_ovd_days_cnt_m_60d_l36m": 42.85,
+      "forte_bank_scoring_is_ovd_days_cnt_m_90d_l36m": 12.21,
+      "forte_bank_scoring_is_ovd_days_cnt_m_eq_1d_l5d": 41.5
+    },
+    "jysan_bank_scoring": {
+      "jysan_bank_scoring_date": "2024-01-01",
+      "jysan_bank_scoring_is_cur_ovd_cnt_m_eq_45d": 21,
+      "jysan_bank_scoring_is_cur_ovd_days_cnt_m_eq_1d": 24,
+      "jysan_bank_scoring_is_cur_ovd_days_cnt_m_eq_10d": 14,
+      "jysan_bank_scoring_is_cur_ovd_days_cnt_m_eq_30d": 1,
+      "jysan_bank_scoring_is_cur_ovd_days_cnt_m_eq_90d": 25,
+      "jysan_bank_scoring_is_cur_ovd_amount_m_0t_and_ovd_days_l_eq_30d": 0
+    },
+    "kaspi_bank_scoring": {
+      "kaspi_bank_scoring_date": "2024-01-01",
+      "kaspi_bank_scoring_score": 322.228,
+      "kaspi_bank_scoring_provider_cnt": 0,
+      "kaspi_bank_scoring_delinq_amount": 10,
+      "kaspi_bank_scoring_active_cnt_contrs": 11,
+      "kaspi_bank_scoring_amount_max_before": 85,
+      "kaspi_bank_scoring_cnt_month_overdue": 14,
+      "kaspi_bank_scoring_overdue_month_cnt": 21,
+      "kaspi_bank_scoring_payment_month_cnt": 7,
+      "kaspi_bank_scoring_active_total_amount": 74,
+      "kaspi_bank_scoring_cur_max_ovd_days_cnt": 41,
+      "kaspi_bank_scoring_closed_overdue_amount": 741,
+      "kaspi_bank_scoring_cur_outstanding_amount": 14,
+      "kaspi_bank_scoring_cnt_days_1y_max_overdue": 14,
+      "kaspi_bank_scoring_1st_credit_age_months_all": 41,
+      "kaspi_bank_scoring_client_credit_life_length": 25,
+      "kaspi_bank_scoring_closed_contracts_cnt_l12m": 7,
+      "kaspi_bank_scoring_has_active_contracts_l12m": 12,
+      "kaspi_bank_scoring_active_contracts_month_cnt": 17,
+      "kaspi_bank_scoring_fin_orgs_cnt_active_contrs": 71,
+      "kaspi_bank_scoring_max_cnt_days_closed_contrs": 74,
+      "kaspi_bank_scoring_fin_orgs_cnt_overdue_contrs": 71,
+      "kaspi_bank_scoring_current_max_cnt_overdue_days": 1,
+      "kaspi_bank_scoring_active_contracts_with_overdue": 258,
+      "kaspi_bank_scoring_active_credit_limit_all_cards": 14,
+      "kaspi_bank_scoring_contrs_closed_cnt_all_history": 1,
+      "kaspi_bank_scoring_overdue_sum_without_kaspi_data": 14,
+      "kaspi_bank_scoring_cur_outstanding_amount_with_ovd": 24.5,
+      "kaspi_bank_scoring_max_cnt_days_overdue_all_contrs": 11,
+      "kaspi_bank_scoring_monthly_payment_no_credit_cards": 1,
+      "kaspi_bank_scoring_monthly_payment_all_cntrs_with_trancheloans": 7,
+      "kaspi_bank_scoring_active_contracts_max_sum_monthly_payment_amount": 124
+    },
+    "application_scoring": {
+      "application_scoring_date": "2024-01-01",
+      "application_scoring_score": 123,
+      "application_card_scoring_card_name": "Казик"
+    },
+    "credit_rating_scoring": {
+      "credit_rating_scoring_date": "2024-01-01",
+      "credit_rating_scoring_score": 74,
+      "credit_rating_scoring_risk_group": 41
+    },
+    "asia_credit_bank_scoring": {
+      "asia_credit_bank_scoring_date": "2020-12-21",
+      "asia_credit_bank_scoring_score": 322.69,
+      "asia_credit_bank_scoring_credit_type_code": "МАЛА МАЛА ДАЙ МНЕ ЕЩЕ"
+    },
+    "freedom_finance_bank_scoring": {
+      "freedom_finance_bank_scoring_date": "2024-01-01",
+      "freedom_finance_bank_scoring_is_req_cnt_m_5_l30d": 41,
+      "freedom_finance_bank_scoring_is_mortgage_contract_other": 1,
+      "freedom_finance_bank_scoring_is_mortgage_contract_borrower": 17,
+      "freedom_finance_bank_scoring_is_cred_paym_cnt_m_eq_3_in_6_m": 42,
+      "freedom_finance_bank_scoring_is_ovd_cnt_m_eq_90d_and_amount_m_5000t_l24m": 7,
+      "freedom_finance_bank_scoring_is_ovd_days_cnt_m_7_or_ovd_amount_m_eq_1000t": 41,
+      "freedom_finance_bank_scoring_is_ovd_days_m_60d_and_ovd_amount_m_5000t_l12m": 25
+    }
+  },
+  "financing_terr_extr_list": {
+    "financing_terr_extr_list_status": "322",
+    "financing_terr_extr_list_exclude_date": "2024-01-02",
+    "financing_terr_extr_list_include_date": "2024-01-01"
+  },
+  "opv": {
+    "opv_amount": 322.228,
+    "opv_period": "2024-01-01",
+    "opv_company_iin_bin": "322-228"
+  },
+  "gender": {
+    "gender_code": "322",
+    "gender_name_kz": "Лучший в мире (топ 3 ладдера)",
+    "gender_name_ru": "Лучший в мире (топ 3 ладдера)"
+  },
+  "nationality": {
+    "nationality_code": "322",
+    "nationality_name_en": "ЖидоМедьведеСвин",
+    "nationality_name_kz": "ЖидоМедьведеСвин",
+    "nationality_name_ru": "ЖидоМедьведеСвин"
+  },
+  "income": {
+    "IncomeAmount": "322",
+    "IncomePeriod": "2024-01-01",
+    "IncomePaymentDate": "2024-01-01",
+    "IncomeRefreshDate": "2024-02-01",
+    "IncomeCompanyIinBin": "322-228"
+  },
+  "job": {
+    "job_head": {
+      "job_head_refresh_date": "2024-01-01",
+      "job_head_company_iin_bin": "322-228"
+    },
+    "job_contract": {
+      "job_contract_date": "2024-01-01",
+      "job_contract_date_to": "2024-12-31",
+      "job_contract_date_from": "2024-01-01",
+      "job_contract_refresh_date": "2024-01-01",
+      "job_contract_classifier_code": "322",
+      "job_contract_company_iin_bin": "322-228",
+      "job_contract_position_name_ru": "Солевар",
+      "job_contract_termination_reason_id": 228,
+      "job_contract_position_classifier_code": 322,
+      "job_contract_position_classifier_name_kz": "Солевар",
+      "job_contract_position_classifier_name_ru": "Виталидзе"
+    }
+  },
+  "income_refund": {
+    "income_refund_date": "2024-01-01",
+    "income_refund_amount": 322.228,
+    "income_refund_refund_period": "2024-01-01"
+  },
+  "criminal_record": null,
+  "kdn": {
+    "kdn_score": 322.228,
+    "kdn_id_type": 1,
+    "kdn_debt_amount": 0.0,
+    "kdn_refresh_date": "2024-01-01",
+    "kdn_income_amount": 322.228
+  },
+  "tax_notification": {
+    "tax_notification_date": "2024-01-01",
+    "tax_notification_number": "228",
+    "tax_notification_name_ru": "GG",
+    "tax_notification_org_code": "322",
+    "tax_notification_return_date": "2024-01-02"
+  },
+  "narco_registry": {
+    "narco_registry_refresh_date": "2024-01-01",
+    "narco_registry_status_name_kz": "Регулярно проводит засолку",
+    "narco_registry_status_name_ru": "Регулярно проводит засолку"
+  },
+  "photo": {
+    "photo_location": "https://yt3.googleusercontent.com/oOuggkIDNLwK60lN_W-ZR5p8psudkgU3V7YmcFJj92MX77GzqvonsqwW2qvXfZaR_WlwQTup=s900-c-k-c0x00ffffff-no-rj",
+    "photo_refresh_date": "2024-01-01"
+  },
+  "bmg": {
+    "bmg_refresh_date": "2024-01-01",
+    "bmg_mobile_number": "87078789502"
+  },
+  "psycho_registry": {
+    "psycho_registry_refresh_date": "2024-01-01",
+    "psycho_registry_status_name_kz": "Е...нулся",
+    "psycho_registry_status_name_ru": "Е...нулся"
+  },
+  "registration_address": {
+    "registration_address_city": "Венеция",
+    "registration_address_flat": "96",
+    "registration_address_name": "-",
+    "registration_address_corpus": "1",
+    "registration_address_street": "Венеция",
+    "registration_address_building": "69",
+    "registration_address_region_code": "228",
+    "registration_address_country_code": "322",
+    "registration_address_refresh_date": "2024-01-01",
+    "registration_address_district_code": "69",
+    "registration_address_region_name_kz": "Винница",
+    "registration_address_region_name_ru": "Винница",
+    "registration_address_country_name_kz": "Украiна",
+    "registration_address_country_name_ru": "Украiна",
+    "registration_address_district_name_kz": "Венеция",
+    "registration_address_district_name_ru": "Венеция"
+  },
+  "tub_registry": {
+    "tub_registry_refresh_date": "2024-01-01",
+    "tub_registry_status_name_kz": "Солевар",
+    "tub_registry_status_name_ru": "Солевар"
+  },
+  "vaccination_kz": {
+    "vaccination_kz_stage": "СДОХ",
+    "vaccination_kz_series": "32222869",
+    "vaccination_kz_dose_en": "ВСЁ",
+    "vaccination_kz_dose_kz": "ВСЁ",
+    "vaccination_kz_dose_ru": "ВСЁ",
+    "vaccination_kz_address_en": "-",
+    "vaccination_kz_address_kz": "-",
+    "vaccination_kz_address_ru": "-",
+    "vaccination_kz_doctor_iin": "850111301503",
+    "vaccination_kz_revac_date": "2024-03-02",
+    "vaccination_kz_revac_dose": "2 БУТЫЛКИ",
+    "vaccination_kz_valid_date": "2024-02-02",
+    "vaccination_kz_patient_iin": "850111301503",
+    "vaccination_kz_drug_name_en": "СОЛЬ",
+    "vaccination_kz_drug_name_kz": "СОЛЬ",
+    "vaccination_kz_drug_name_ru": "СОЛЬ",
+    "vaccination_kz_revac_series": "КОРОНА ЭКСТРА",
+    "vaccination_kz_patient_gender": "Лучший в мире",
+    "vaccination_kz_drug_country_en": "Венеция",
+    "vaccination_kz_drug_country_kz": "Венеция",
+    "vaccination_kz_drug_country_ru": "Венеция",
+    "vaccination_kz_revac_drug_name": "ПИВО",
+    "vaccination_kz_revac_address_en": "-",
+    "vaccination_kz_revac_address_kz": "-",
+    "vaccination_kz_revac_address_ru": "-",
+    "vaccination_kz_revac_doctor_iin": "32222869",
+    "vaccination_kz_revac_drug_name_en": "ПИВО",
+    "vaccination_kz_revac_drug_name_kz": "ПИВО",
+    "vaccination_kz_doctor_full_name_en": "Богдан",
+    "vaccination_kz_doctor_full_name_kz": "Богдан",
+    "vaccination_kz_doctor_full_name_ru": "Богдан",
+    "vaccination_kz_vaccination_date_en": "01",
+    "vaccination_kz_vaccination_date_kz": "01",
+    "vaccination_kz_vaccination_date_ru": "2024-01-01",
+    "vaccination_kz_drug_company_name_en": "Казик",
+    "vaccination_kz_drug_company_name_kz": "Казик",
+    "vaccination_kz_drug_company_name_ru": "Казик",
+    "vaccination_kz_patient_full_name_en": "Виталий",
+    "vaccination_kz_patient_full_name_kz": "Виталий",
+    "vaccination_kz_patient_full_name_ru": "Виталий",
+    "vaccination_kz_patient_date_of_birth": "1990-11-19",
+    "vaccination_kz_revac_drug_company_en": "МЭЛЛСТРОЙ",
+    "vaccination_kz_revac_drug_company_kz": "МЭЛЛСТРОЙ",
+    "vaccination_kz_revac_drug_company_ru": "Россия",
+    "vaccination_kz_revac_drug_country_en": "Россия",
+    "vaccination_kz_revac_drug_country_kz": "Россия",
+    "vaccination_kz_typeof_vaccination_en": "Ключ на 9",
+    "vaccination_kz_typeof_vaccination_kz": "Ключ на 9",
+    "vaccination_kz_typeof_vaccination_ru": "Ключ на 9",
+    "vaccination_kz_patient_passport_docnum": "850111301503"
+  },
+  "real_estate_object_registration": {
+    "real_estate_object_registration_date_to": "2024-01-01",
+    "real_estate_object_registration_date_from": "2024-01-01",
+    "real_estate_object_registration_object_id": 322,
+    "real_estate_object_registration_refresh_date": "2024-01-01",
+    "real_estate_object_registration_right_type_name_ru": "С рождения",
+    "real_estate_object_registration_legal_document_info": "СИСЫЧ",
+    "real_estate_object_registration_person_identifying_docnum": "32222869"
+  },
+  "portal_refresh_date": "2024-02-29",
+  "wanted": {
+    "wanted_kgd": {
+      "wanted_kgd_type": "ПАПИЧ",
+      "wanted_kgd_criminal_info": "ДОГОНЮ ДОГОНЮ ТЕБЯ АХАХАХА",
+      "wanted_kgd_criminal_article": "Я ТЕБЯ СЕЙЧАС БУДУ РЕЗАТЬ",
+      "wanted_kgd_criminal_measure": "МАНЬЯКИЧ",
+      "wanted_kgd_criminal_add_info": "Все виноваты кроме Я",
+      "wanted_kgd_criminal_initiator": "Дядя Богдан"
+    },
+    "wanted_lost": {
+      "wanted_lost_initiator": "ПАПИЗИ",
+      "wanted_lost_search_dep": "Стримснайперы",
+      "wanted_lost_days_searched": 0,
+      "wanted_lost_dossier_number": "322",
+      "wanted_lost_disappear_reason": "Устал стримить",
+      "wanted_lost_dossier_creation_date": "2024-01-01"
+    },
+    "wanted_debtor": {
+      "wanted_debtor_category": "322",
+      "wanted_debtor_initiator": "Казиныч",
+      "wanted_debtor_search_dep": "Стримснайперы",
+      "wanted_debtor_days_searched": 322,
+      "wanted_debtor_dossier_number": "МАЛА МАЛА ДАЙ МНЕ ЕЩЕ",
+      "wanted_debtor_dossier_creation_date": "2020-12-21"
+    },
+    "wanted_defendant": {
+      "wanted_defendant_category": "228",
+      "wanted_defendant_initiator": "Дядя Богдан",
+      "wanted_defendant_search_dep": "Стримснайперы",
+      "wanted_defendant_days_searched": 0,
+      "wanted_defendant_dossier_number": "322",
+      "wanted_defendant_dossier_creation_date": "2024-01-01"
+    },
+    "wanted_gov_debtor": {
+      "wanted_gov_debtor_category": "322228",
+      "wanted_gov_debtor_initiator": "Дядя Богдан",
+      "wanted_gov_debtor_search_dep": "Стримснайперы",
+      "wanted_gov_debtor_days_searched": 500000,
+      "wanted_gov_debtor_dossier_number": "Казиныч",
+      "wanted_gov_debtor_dossier_creation_date": "2024-01-01"
+    },
+    "wanted_for_violation": {
+      "wanted_for_violation_category": "Лучший в мире за работой",
+      "wanted_for_violation_initiator": "Дядя Богдан",
+      "wanted_for_violation_search_dep": "Стримснайперы",
+      "wanted_for_violation_days_searched": 1,
+      "wanted_for_violation_dossier_number": "322",
+      "wanted_for_violation_dossier_creation_date": "2024-01-01"
+    },
+    "wanted_child_enforcement": {
+      "wanted_child_enforcement_category": "322",
+      "wanted_child_enforcement_initiator": "Дядя Богдан",
+      "wanted_child_enforcement_search_dep": "Гачи",
+      "wanted_child_enforcement_days_searched": 322,
+      "wanted_child_enforcement_dossier_number": "14 лет, можно накормить",
+      "wanted_child_enforcement_dossier_creation_date": "2020-02-20"
+    }
+  },
+  "real_estate_queue": {
+    "real_estate_queue_date": "2024-01-01",
+    "real_estate_queue_family_member_cnt": 4
+  },
+  "real_estate_object_encumbrance": {
+    "real_estate_object_encumbrance_date_to": "2024-01-01",
+    "real_estate_object_encumbrance_date_from": "2020-01-01",
+    "real_estate_object_encumbrance_object_id": 69,
+    "real_estate_object_encumbrance_holder_info": "-",
+    "real_estate_object_encumbrance_refresh_date": "2024-02-02",
+    "real_estate_object_encumbrance_holder_iin_bin": "850111301503"
+  },
+  "bankruptcy_application": {
+    "bankruptcy_application_fio": "228",
+    "bankruptcy_application_iin": "850111301503",
+    "bankruptcy_application_date": "2024-01-01",
+    "bankruptcy_application_debt": {
+      "bankruptcy_application_debt_date": "2024-01-01",
+      "bankruptcy_application_debt_amount": "2024-01-01",
+      "bankruptcy_application_debt_creditor_company_iin": "322-228",
+      "bankruptcy_application_debt_creditor_company_name_ru": "2024-01-01"
+    },
+    "bankruptcy_application_type_code": "322",
+    "bankruptcy_application_refresh_date": "2024-01-01",
+    "bankruptcy_application_refusal_date": "2024-01-01",
+    "bankruptcy_application_type_name_en": "Виталидзе",
+    "bankruptcy_application_type_name_kz": "322-228",
+    "bankruptcy_application_type_name_ru": "-жизнь",
+    "bankruptcy_application_statement_number": "322",
+    "bankruptcy_application_termination_date": "2024-01-01",
+    "bankruptcy_application_bankrupt_end_date": "2024-01-01",
+    "bankruptcy_application_refusal_reason_kz": "322",
+    "bankruptcy_application_refusal_reason_rn": "322",
+    "bankruptcy_application_refusal_reason_ru": "322",
+    "bankruptcy_application_bankrupt_start_date": "2024-01-01",
+    "bankruptcy_application_court_decision_date": "2024-01-01",
+    "bankruptcy_application_refusal_reason_code": "Солевар",
+    "bankruptcy_application_statement_status_en": "322",
+    "bankruptcy_application_statement_status_kz": "322",
+    "bankruptcy_application_statement_status_ru": "322",
+    "bankruptcy_application_statement_accept_date": "2024-01-01",
+    "bankruptcy_application_statement_status_code": "322",
+    "bankruptcy_application_termination_reason_en": "322",
+    "bankruptcy_application_termination_reason_kz": "322",
+    "bankruptcy_application_termination_reason_ru": "322",
+    "bankruptcy_application_bankrupt_end_reason_en": "322",
+    "bankruptcy_application_bankrupt_end_reason_kz": "322",
+    "bankruptcy_application_bankrupt_end_reason_ru": "322",
+    "bankruptcy_application_proceedings_start_date": "2024-01-01",
+    "bankruptcy_application_termination_reason_code": "322",
+    "bankruptcy_application_bankrupt_end_reason_code": "322",
+    "bankruptcy_application_termination_initiator_en": "322",
+    "bankruptcy_application_termination_initiator_kz": "322",
+    "bankruptcy_application_termination_initiator_ru": "322",
+    "bankruptcy_application_termination_initiator_code": "322"
+  },
+  "debtor_mu": {
+    "debtor_mu_debt_amount": "228322",
+    "debtor_mu_type_name_ru": "Веницианский певец",
+    "debtor_mu_collector_name": "Дядя богдан",
+    "debtor_mu_collector_iin_bin": "850111301503",
+    "debtor_mu_type_of_legal_unit_name_ru": "СОЛО",
+    "debtor_mu_enforcement_proceedings_num": "32222869",
+    "debtor_mu_enforcement_proceedings_date": "2024-01-01"
+  },
+  "unemployed_reg": "ЛУЧШИЙ В МИРЕ",
+  "unemployed_reg_refresh_date": "2024-02-29"
+}
